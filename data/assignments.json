@@ -1,0 +1,12 @@
+[
+  {
+    "id": "assignment1",
+    "classId": "class1",
+    "className": "Introduction to Computer Science",
+    "title": "Programming Fundamentals Project",
+    "description": "Create a simple calculator program using your preferred programming language. Include basic operations and error handling.",
+    "dueDate": "2024-02-15T23:59:00.000Z",
+    "maxPoints": 100,
+    "createdAt": "2024-01-20T14:00:00.000Z"
+  }
+]

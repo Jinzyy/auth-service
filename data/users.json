@@ -1,0 +1,30 @@
+[
+  {
+    "id": "teacher1",
+    "email": "teacher@edu.com",
+    "name": "teacher",
+    "role": "teacher",
+    "createdAt": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "student1",
+    "email": "student@edu.com",
+    "name": "student",
+    "role": "student",
+    "createdAt": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "vx2ga4rmk",
+    "email": "rafa@email.com",
+    "name": "rafa",
+    "role": "student",
+    "createdAt": "2025-06-16T08:20:15.665Z"
+  },
+  {
+    "id": "x6d6aentp",
+    "email": "rafa@gmail.com",
+    "name": "rafa",
+    "role": "teacher",
+    "createdAt": "2025-06-16T08:20:56.271Z"
+  }
+]

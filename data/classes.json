@@ -1,0 +1,24 @@
+[
+  {
+    "id": "class1",
+    "name": "Introduction to Computer Science",
+    "description": "Learn the fundamentals of computer science including programming, algorithms, and data structures.",
+    "teacherId": "teacher1",
+    "teacherName": "teacher",
+    "code": "CS101A",
+    "schedule": "Mon/Wed/Fri 10:00-11:30 AM",
+    "semester": "Fall 2024",
+    "createdAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "id": "i81oe0amh",
+    "name": "TEST",
+    "description": "TEST",
+    "teacherId": "x6d6aentp",
+    "teacherName": "rafa",
+    "code": "NQOEKD",
+    "schedule": "Mon, 10-13, 2025",
+    "semester": "Spring 2025",
+    "createdAt": "2025-06-16T08:21:30.494Z"
+  }
+]
